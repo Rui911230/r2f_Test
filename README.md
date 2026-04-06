@@ -1,3 +1,5 @@
+**English** | [中文](README_zh.md)
+
 # AeroFlutter Multi-Agent Bridge
 
 ## Project Introduction
